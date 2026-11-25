@@ -1,0 +1,3 @@
+# Solo para dibujar las gráficas. Los algoritmos y los tests usan únicamente
+# la biblioteca estándar de Python (no se usa ninguna librería de LCS).
+matplotlib>=3.7
