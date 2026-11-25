@@ -1,0 +1,37 @@
+longitud,version,tiempo_cpu_s,memoria_kib,longitud_lcs,estado
+6,A_recursiva,1.1444091796875e-05,0.1259765625,3,ok
+6,B_hirschberg,1.33514404296875e-05,0.2109375,3,ok
+6,C_dinamica,7.152557373046875e-06,0.62890625,3,ok
+9,A_recursiva,0.0001983642578125,0.3046875,5,ok
+9,B_hirschberg,2.86102294921875e-05,0.2734375,5,ok
+9,C_dinamica,1.430511474609375e-05,1.138671875,5,ok
+12,A_recursiva,0.0028076171875,0.4462890625,9,ok
+12,B_hirschberg,4.57763671875e-05,0.34375,9,ok
+12,C_dinamica,2.384185791015625e-05,1.775390625,9,ok
+15,A_recursiva,0.140625,0.578125,9,ok
+15,B_hirschberg,6.4849853515625e-05,0.4140625,9,ok
+15,C_dinamica,3.4332275390625e-05,2.455078125,9,ok
+18,A_recursiva,1.203125,0.76953125,10,ok
+18,B_hirschberg,9.1552734375e-05,0.484375,10,ok
+18,C_dinamica,4.9591064453125e-05,3.3388671875,10,ok
+20,A_recursiva,16.5,0.884765625,11,ok
+20,B_hirschberg,0.0001068115234375,0.53125,11,ok
+20,C_dinamica,5.7220458984375e-05,3.98046875,11,ok
+22,A_recursiva,,,,límite superado
+22,B_hirschberg,0.0001220703125,0.578125,12,ok
+22,C_dinamica,7.2479248046875e-05,4.6689453125,12,ok
+250,A_recursiva,,,,no ejecutada (exponencial)
+250,B_hirschberg,0.0126953125,5.921875,161,ok
+250,C_dinamica,0.0078125,509.041015625,161,ok
+500,A_recursiva,,,,no ejecutada (exponencial)
+500,B_hirschberg,0.05078125,11.78125,330,ok
+500,C_dinamica,0.03515625,2155.4716796875,330,ok
+1000,A_recursiva,,,,no ejecutada (exponencial)
+1000,B_hirschberg,0.203125,55.6171875,647,ok
+1000,C_dinamica,0.1484375,11708.609375,647,ok
+2000,A_recursiva,,,,no ejecutada (exponencial)
+2000,B_hirschberg,0.84375,141.5859375,1296,ok
+2000,C_dinamica,0.609375,54653.3681640625,1296,ok
+4000,A_recursiva,,,,no ejecutada (exponencial)
+4000,B_hirschberg,3.453125,299.9296875,2601,ok
+4000,C_dinamica,2.5,234400.064453125,2601,ok
